@@ -1,0 +1,14 @@
+{
+    "name": "boomcms/theme-default",
+    "description": "Default Boom theme",
+    "type": "boomcms-template",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Rob Taylor",
+            "email": "rob@uxblondon.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
