@@ -1,7 +1,7 @@
 {
     "name": "boomcms/theme-default",
     "description": "Default Boom theme",
-    "type": "boomcms-template",
+    "type": "boomcms-theme",
     "license": "MIT",
     "authors": [
         {
