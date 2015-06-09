@@ -9,8 +9,5 @@
             "email": "rob@uxblondon.com"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {
-        "boomcms/template-installer-plugin": "dev-master"
-    }
+    "minimum-stability": "dev"
 }
