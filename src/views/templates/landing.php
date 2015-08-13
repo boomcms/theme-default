@@ -18,15 +18,6 @@
             </ul>
         </div>
     </section>
-
-    <section class="install">
-        <div class="container text-center">
-            <h2>Install</h2>
-
-            <p>BoomCMS can be installed via <a href="http://www.getcomposer.org">composer</a></p>
-            <code>composer create-project boomcms/boomcms</code>
-        </div>
-    </section>
 </article>
 
 <?= View::make('theme-default::inc.footer') ?>

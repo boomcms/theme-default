@@ -5,7 +5,7 @@
 		
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-		<link href="/vendor/boomcms/theme-default/css/main.css" rel='stylesheet' type='text/css' />
+		<link href="/vendor/boomcms/themes/theme-default/main.css" rel='stylesheet' type='text/css' />
 		
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="<?= $page->getDescription() ?>" />
@@ -33,7 +33,7 @@
             <nav class="navbar">
                 <div class="container">
                     <div class="navbar-header">
-                        <a class="navbar-brand" href="/"><img src="/vendor/boomcms/theme-default/img/logo.png" alt="BoomCMS logo" /></a>
+                        <a class="navbar-brand" href="/"><img src="/vendor/boomcms/themes/theme-default/img/logo.png" alt="BoomCMS logo" /></a>
                     </div>
 
                     <div class="collapse navbar-collapse">
