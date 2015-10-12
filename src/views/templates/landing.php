@@ -1,11 +1,7 @@
 <?= View::make('theme-default::inc.header') ?>
 
 <article role="main">
-    <header class="page-header">
-        <div class="container">
-          <h1 id="b-page-title"><?= $page->getTitle() ?></h1>
-        </div>
-    </header>
+    <?= View::make('theme-default::inc.page-header') ?>
 
     <section class="features">
         <div class="container">
