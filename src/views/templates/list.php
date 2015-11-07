@@ -1,7 +1,7 @@
-<?= View::make('theme-default::inc.header') ?>
+<?= $view('inc.header') ?>
 
 <article role="main">
-    <?= View::make('theme-default::inc.page-header') ?>
+    <?= $view('inc.page-header') ?>
 
     <section class="page-list">
         <div class="container">
@@ -23,4 +23,4 @@
     </section>
 </article>
 
-<?= View::make('theme-default::inc.footer') ?>
+<?= $view('inc.footer') ?>
